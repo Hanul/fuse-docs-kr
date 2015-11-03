@@ -15,5 +15,8 @@
 
 * [Realignist](http://github.com/realignist)
 * [ujuc](http://github.com/ujuc)
+* [englekk](http://github.com/englekk)
+* [DesignOZ](http://github.com/DesignOZ)
+* [Hanul](http://github.com/Hanul)
 
 Thanks to [Kristian](http://github.com/kristianhasselknippe) from Fuse.
